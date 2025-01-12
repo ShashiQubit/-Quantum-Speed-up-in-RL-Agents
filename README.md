@@ -48,9 +48,9 @@ To run the notebook, you will need the following Python libraries:
 
 ## License
 
-This project is licensed under the  MIT - see the LICENSE file for details. (If you don't have specific needs, MIT or Apache 2.0 are good choices).
+This project is licensed under the  MIT - see the LICENSE file for details.
+
 ## Acknowledgments
 
-    We acknowledge the authors of the original paper for their groundbreaking research.
-
-    This project utilizes the Qiskit quantum computing framework.
+We acknowledge the authors of the original paper for their groundbreaking research.
+This project utilizes the Qiskit quantum computing framework.
