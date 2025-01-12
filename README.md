@@ -11,7 +11,7 @@ The notebook demonstrates how a hybrid quantum-classical agent can achieve a lea
 ## Authors
 
 *   **Original Paper:** V. Saggio, B. E. Asenbeck, A. Hamann, T. Strömberg, P. Schiansky, V. Dunjko, N. Friis, N. C. Harris, M. Hochberg, D. Englund, S. Wölk, H. J. Briegel, and P. Walther
-*   **Qiskit Implementation and Notebook:** [Your Name]
+*   **Qiskit Implementation and Notebook:** Shashi Kumar
 
 ## Notebook Overview
 
@@ -41,55 +41,15 @@ To run the notebook, you will need the following Python libraries:
 
 *   `qiskit`
 *   `qiskit-aer`
-*   `perceval-quandela`
 *   `numpy`
 *   `matplotlib`
 *   `ipywidgets`
 *   `pylatexenc`
 
-You can install these dependencies using pip:
+## License
 
-```bash
-pip install qiskit qiskit-aer perceval-quandela numpy matplotlib ipywidgets pylatexenc
-
-    
-
-Use code with caution.Markdown
-How to Run
-
-    Clone this repository:
-
-          
-    git clone [repository URL]
-
-        
-
-Use code with caution.Bash
-
-Navigate to the repository directory:
-
-      
-cd [repository directory]
-
-    
-
-Use code with caution.Bash
-
-Open the Jupyter Notebook:
-
-      
-jupyter notebook Quantum_RL_Speedup.ipynb
-
-    
-
-    Use code with caution.Bash
-
-    Run the cells in the notebook sequentially.
-
-License
-
-This project is licensed under the [Your Choice of License] - see the LICENSE file for details. (If you don't have specific needs, MIT or Apache 2.0 are good choices).
-Acknowledgments
+This project is licensed under the  MIT - see the LICENSE file for details. (If you don't have specific needs, MIT or Apache 2.0 are good choices).
+## Acknowledgments
 
     We acknowledge the authors of the original paper for their groundbreaking research.
 
