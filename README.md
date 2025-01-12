@@ -33,8 +33,7 @@ The Jupyter Notebook (`Quantum_RL_Speedup.ipynb`) provides a step-by-step walkth
 
 The following plot illustrates the average reward (η) over even epochs for the classical, quantum, and hybrid strategies. The hybrid strategy, which combines quantum amplitude amplification with classical updates, achieves a higher reward faster than the purely classical strategy, demonstrating a clear learning speed-up.
 
-![Plot of Average Reward vs. Even Epochs](INSERT_IMAGE_HERE.png)
-**\[Insert your plot image (e.g., `results.png`) in the same directory as this README and replace `INSERT_IMAGE_HERE.png` with your image file name]**
+![Plot of Average Reward vs. Even Epochs](result.png)
 
 ## Dependencies
 
